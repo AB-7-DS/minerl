@@ -1,0 +1,2 @@
+[32m2025-07-01 14:57:08[0m [35mAAhmed[0m [34mprocess_watcher[680][0m [1;30mINFO[0m Process watcher started between parent 11036 and child 10192 
+[32m2025-07-01 15:08:00[0m [35mAAhmed[0m [34mprocess_watcher[680][0m [1;30mINFO[0m Parent is not running, hence we need terminate the child.
